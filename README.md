@@ -22,14 +22,6 @@ _**Lógica de programação** - treino diário com exercícios no Beecrowd_
 
 _**VS Code** - ambiente principal de desenvolvimento e prática de código_
 
-📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chssantos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chssantos&layout=compact&theme=tokyonight" />
-</p>
-
-
 # 📫 Como me encontrar
 
 LinkedIn: [https://www.linkedin.com/in/chssantos/]
